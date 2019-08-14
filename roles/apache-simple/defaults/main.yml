@@ -1,0 +1,5 @@
+---
+# defaults file for apache-simple
+    apache_test_message: "Test"
+    apache_webserver_port: 80
+    apache_max_keep_alive_requests: 101
